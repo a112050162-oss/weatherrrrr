@@ -1,0 +1,5 @@
+{
+  "name": "Weather & Style",
+  "description": "A stylish weather application offering real-time forecasts and AI-driven outfit recommendations based on current conditions.",
+  "requestFramePermissions": []
+}
